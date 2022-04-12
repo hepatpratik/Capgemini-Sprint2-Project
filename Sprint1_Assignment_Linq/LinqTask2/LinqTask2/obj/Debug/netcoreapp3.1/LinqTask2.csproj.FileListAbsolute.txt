@@ -1,0 +1,13 @@
+C:\Users\Pratik\source\repos\LinqTask2\LinqTask2\obj\Debug\netcoreapp3.1\LinqTask2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pratik\source\repos\LinqTask2\LinqTask2\obj\Debug\netcoreapp3.1\LinqTask2.AssemblyInfoInputs.cache
+C:\Users\Pratik\source\repos\LinqTask2\LinqTask2\obj\Debug\netcoreapp3.1\LinqTask2.AssemblyInfo.cs
+C:\Users\Pratik\source\repos\LinqTask2\LinqTask2\obj\Debug\netcoreapp3.1\LinqTask2.csproj.CoreCompileInputs.cache
+C:\Users\Pratik\source\repos\LinqTask2\LinqTask2\bin\Debug\netcoreapp3.1\LinqTask2.exe
+C:\Users\Pratik\source\repos\LinqTask2\LinqTask2\bin\Debug\netcoreapp3.1\LinqTask2.deps.json
+C:\Users\Pratik\source\repos\LinqTask2\LinqTask2\bin\Debug\netcoreapp3.1\LinqTask2.runtimeconfig.json
+C:\Users\Pratik\source\repos\LinqTask2\LinqTask2\bin\Debug\netcoreapp3.1\LinqTask2.runtimeconfig.dev.json
+C:\Users\Pratik\source\repos\LinqTask2\LinqTask2\bin\Debug\netcoreapp3.1\LinqTask2.dll
+C:\Users\Pratik\source\repos\LinqTask2\LinqTask2\bin\Debug\netcoreapp3.1\LinqTask2.pdb
+C:\Users\Pratik\source\repos\LinqTask2\LinqTask2\obj\Debug\netcoreapp3.1\LinqTask2.dll
+C:\Users\Pratik\source\repos\LinqTask2\LinqTask2\obj\Debug\netcoreapp3.1\LinqTask2.pdb
+C:\Users\Pratik\source\repos\LinqTask2\LinqTask2\obj\Debug\netcoreapp3.1\LinqTask2.genruntimeconfig.cache
